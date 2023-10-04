@@ -72,3 +72,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 # NextJsPassportGoogleOAuth2
+In order to test the project use http://localhost:8080/google url
